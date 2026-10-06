@@ -1,11 +1,19 @@
 
-"# AEC_Q100_SLC52AIA" 
+# AEC_Q100_SLC52AIA
 
 
 
 <img width="1303" height="655" alt="260529_QRT에서받은_테스트항목_테이블" src="https://github.com/user-attachments/assets/daaf138a-6e96-4700-9fd8-bc875e560d75" />
 
 
+# 내부 F/T 검수 결과
+<img width="1117" height="456" alt="image" src="https://github.com/user-attachments/assets/bef6bdcd-b2b9-4679-9f44-5510f47006b8" />
+
+# QRT에 전달한 F/T 검수 결과
+<img width="769" height="349" alt="image" src="https://github.com/user-attachments/assets/3f33eeac-6625-4834-9054-2b4a809aba06" />
+
+
+# Datasheet
 
 <img width="584" height="583" alt="image" src="https://github.com/user-attachments/assets/4870b77f-528a-4872-94b5-6dd9dfae821d" />
 
